@@ -1,7 +1,4 @@
-#include "Element.h"
-#include "And.h"
-#include "Or.h"
-#include "Not.h"
+#include "Elements.h"
 
 #include <iostream> //debug
 
